@@ -1,0 +1,6 @@
+E:\FranciscoNavarrete\Navarrete\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio16\bin\Debug\Ejercicio16.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio16\bin\Debug\Ejercicio16.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio16\obj\Debug\Ejercicio16.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio16\obj\Debug\Ejercicio16.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio16\obj\Debug\Ejercicio16.pdb

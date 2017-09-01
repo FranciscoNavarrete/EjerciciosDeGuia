@@ -1,0 +1,12 @@
+D:\FranciscoNavarrete\Navarrete\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+D:\FranciscoNavarrete\Navarrete\Ejercicio05\bin\Debug\Ejercicio05.exe
+D:\FranciscoNavarrete\Navarrete\Ejercicio05\bin\Debug\Ejercicio05.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio05\obj\Debug\Ejercicio05.csprojResolveAssemblyReference.cache
+D:\FranciscoNavarrete\Navarrete\Ejercicio05\obj\Debug\Ejercicio05.exe
+D:\FranciscoNavarrete\Navarrete\Ejercicio05\obj\Debug\Ejercicio05.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio05\bin\Debug\Ejercicio05.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio05\bin\Debug\Ejercicio05.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio05\obj\Debug\Ejercicio05.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio05\obj\Debug\Ejercicio05.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio05\obj\Debug\Ejercicio05.pdb

@@ -1,0 +1,5 @@
+E:\FranciscoNavarrete\Navarrete\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio13\bin\Debug\Ejercicio13.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio13\bin\Debug\Ejercicio13.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio13\obj\Debug\Ejercicio13.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio13\obj\Debug\Ejercicio13.pdb

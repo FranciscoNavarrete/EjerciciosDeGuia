@@ -1,0 +1,6 @@
+E:\FranciscoNavarrete\Navarrete\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio14\obj\Debug\Ejercicio14.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio14\bin\Debug\Ejercicio14.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio14\bin\Debug\Ejercicio14.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio14\obj\Debug\Ejercicio14.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio14\obj\Debug\Ejercicio14.pdb

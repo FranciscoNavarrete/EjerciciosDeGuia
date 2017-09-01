@@ -1,0 +1,12 @@
+F:\FranciscoNavarrete\Navarrete\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+F:\FranciscoNavarrete\Navarrete\Ejercicio08\bin\Debug\Ejercicio08.exe
+F:\FranciscoNavarrete\Navarrete\Ejercicio08\bin\Debug\Ejercicio08.pdb
+F:\FranciscoNavarrete\Navarrete\Ejercicio08\obj\Debug\Ejercicio08.csprojResolveAssemblyReference.cache
+F:\FranciscoNavarrete\Navarrete\Ejercicio08\obj\Debug\Ejercicio08.exe
+F:\FranciscoNavarrete\Navarrete\Ejercicio08\obj\Debug\Ejercicio08.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio08\bin\Debug\Ejercicio08.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio08\obj\Debug\Ejercicio08.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio08\obj\Debug\Ejercicio08.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio08\bin\Debug\Ejercicio08.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio08\bin\Debug\Ejercicio08.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio08\obj\Debug\Ejercicio08.csprojResolveAssemblyReference.cache

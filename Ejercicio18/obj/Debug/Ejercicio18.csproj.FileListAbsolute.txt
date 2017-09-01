@@ -1,0 +1,5 @@
+E:\FranciscoNavarrete\Navarrete\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio18\bin\Debug\Ejercicio18.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio18\bin\Debug\Ejercicio18.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio18\obj\Debug\Ejercicio18.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio18\obj\Debug\Ejercicio18.pdb

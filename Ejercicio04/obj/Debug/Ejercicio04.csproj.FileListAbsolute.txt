@@ -1,0 +1,17 @@
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.exe
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.pdb
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.exe
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+D:\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.exe
+D:\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.exe
+D:\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio04\bin\Debug\Ejercicio04.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio04\obj\Debug\Ejercicio04.pdb
