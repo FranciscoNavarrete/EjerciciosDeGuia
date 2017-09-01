@@ -1,0 +1,18 @@
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\alumno\Documents\Visual Studio 2012\Projects\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+E:\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio01\bin\Debug\Ejercicio01.pdb
+E:\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+E:\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.exe
+E:\FranciscoNavarrete\Navarrete\Ejercicio01\obj\Debug\Ejercicio01.pdb
